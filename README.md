@@ -37,4 +37,3 @@ Functions:
 - `extend`: Extend a class with attributes from another class.
 - `scope_context`: Create a context manager for accessing object attributes.
 - `export`: Define which variables a module should export.
->>>>>>> 499686e (Initial release of pydynamix)
