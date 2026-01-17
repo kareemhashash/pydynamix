@@ -1,7 +1,4 @@
 # pydynamix
-<<<<<<< HEAD
-A powerful dynamic execution and code manipulation python library.
-=======
 
 > **A powerful dynamic execution and code manipulation library.**
 
